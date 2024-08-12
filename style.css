@@ -553,8 +553,9 @@
 
 .youQuest {
     position: absolute;
-    top: 7%;
-    left: 86%;
+    top: 5%;
+    left: 83%;
+    width: 40px;
 }
 
 
