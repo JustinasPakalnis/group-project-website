@@ -17,7 +17,7 @@ Deividas Vorininkaitis
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://justinaspakalnis.github.io/some-kind-of-website/
+Site published at: https://justinaspakalnis.github.io/group-project-website/
 
 Design: [Figma](https://www.figma.com/design/9mV6rCFOEd1ptuZ4JBovVS/Collab-landing-page-design-(Community)?node-id=1-971&t=88eQrcBzuw79Af0d-0)
 
